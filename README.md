@@ -4,7 +4,7 @@
   <h2>visit my public projects on respository</h2>
 </div>
 <h3>Already Know :</h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,git,js,jquery,regex,github,py,django,docker,postgres&theme=light&perline=4">
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,git,js,jquery,regex,github,py,django,postgres&theme=light&perline=4">
 <h3>About To Learn :</h3>
-<img src="https://skillicons.dev/icons?i=react,redis,fastapi,&theme=light&perline=3">
+<img src="https://skillicons.dev/icons?i=react,redis,fastapi,docker&theme=light&perline=3">
 
